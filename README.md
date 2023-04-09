@@ -1,6 +1,9 @@
 # IT-Book-Store-with-React
 A simple React app built with React & React Router Dom.
 
+## Live Link
+Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
+
 ## API 
 Documentation Link -> [It Bookstore API](https://api.itbook.store/)
 
