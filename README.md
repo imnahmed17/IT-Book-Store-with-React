@@ -2,7 +2,7 @@
 A simple React app built with React & React Router Dom.
 
 ## Live Link
-Hosted in Netlify -> [It Bookstore](https://quiet-halva-af2103.netlify.app/)
+Hosted in Netlify -> [IT Book Store](https://quiet-halva-af2103.netlify.app/)
 
 ## API 
 Documentation Link -> [It Bookstore API](https://api.itbook.store/)
